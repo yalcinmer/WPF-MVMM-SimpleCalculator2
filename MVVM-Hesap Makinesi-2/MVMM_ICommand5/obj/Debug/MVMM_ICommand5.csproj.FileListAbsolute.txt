@@ -1,0 +1,16 @@
+C:\Users\Şeref\source\repos\MVMM_ICommand5\MVMM_ICommand5\bin\Debug\MVMM_ICommand5.exe.config
+C:\Users\Şeref\source\repos\MVMM_ICommand5\MVMM_ICommand5\bin\Debug\MVMM_ICommand5.exe
+C:\Users\Şeref\source\repos\MVMM_ICommand5\MVMM_ICommand5\bin\Debug\MVMM_ICommand5.pdb
+C:\Users\Şeref\source\repos\MVMM_ICommand5\MVMM_ICommand5\obj\Debug\MVMM_ICommand5.csproj.AssemblyReference.cache
+C:\Users\Şeref\source\repos\MVMM_ICommand5\MVMM_ICommand5\obj\Debug\MVMM_ICommand5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şeref\source\repos\MVMM_ICommand5\MVMM_ICommand5\obj\Debug\MainWindow.g.cs
+C:\Users\Şeref\source\repos\MVMM_ICommand5\MVMM_ICommand5\obj\Debug\App.g.cs
+C:\Users\Şeref\source\repos\MVMM_ICommand5\MVMM_ICommand5\obj\Debug\MVMM_ICommand5_MarkupCompile.cache
+C:\Users\Şeref\source\repos\MVMM_ICommand5\MVMM_ICommand5\obj\Debug\MVMM_ICommand5_MarkupCompile.lref
+C:\Users\Şeref\source\repos\MVMM_ICommand5\MVMM_ICommand5\obj\Debug\MainWindow.baml
+C:\Users\Şeref\source\repos\MVMM_ICommand5\MVMM_ICommand5\obj\Debug\MVMM_ICommand5.g.resources
+C:\Users\Şeref\source\repos\MVMM_ICommand5\MVMM_ICommand5\obj\Debug\MVMM_ICommand5.Properties.Resources.resources
+C:\Users\Şeref\source\repos\MVMM_ICommand5\MVMM_ICommand5\obj\Debug\MVMM_ICommand5.csproj.GenerateResource.cache
+C:\Users\Şeref\source\repos\MVMM_ICommand5\MVMM_ICommand5\obj\Debug\MVMM_ICommand5.csproj.CoreCompileInputs.cache
+C:\Users\Şeref\source\repos\MVMM_ICommand5\MVMM_ICommand5\obj\Debug\MVMM_ICommand5.exe
+C:\Users\Şeref\source\repos\MVMM_ICommand5\MVMM_ICommand5\obj\Debug\MVMM_ICommand5.pdb
